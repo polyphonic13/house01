@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/cursor2JS.js">
+    <Files>
+      <File FileName="Assets/Scripts/GrabCS.cs" Line="20" Column="49" />
+      <File FileName="Assets/Scripts/Grab.js" Line="18" Column="46" />
+      <File FileName="Assets/Scripts/CursorJS.js" Line="46" Column="38" />
+      <File FileName="Assets/Scripts/cursor2JS.js" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
