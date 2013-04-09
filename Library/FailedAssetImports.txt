@@ -1,2 +1,1 @@
-Assets/Models/blender/bathroom01/bathroom01q.blend
 Assets/Models/blender/desk02/desk02t.blend
